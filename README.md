@@ -4,6 +4,8 @@
 
 Previously a Systems Technician & QA engineer at Hartech Technologies (defense sector), and a Naval Communication Operator & Team Lead in the Israeli Navy.
 
+**Currently learning:** Digital Signal Processing · Systems Programming (C/C++ & Linux)
+
 ---
 
 ## Skills
@@ -14,13 +16,17 @@ Previously a Systems Technician & QA engineer at Hartech Technologies (defense s
 
 ---
 
-## Projects
+## Academic Projects
 
 | Repo | Description | Language |
 |------|-------------|----------|
-| [python-oop-simulation](https://github.com/tomerbenveniste/python-oop-simulation) | Multi-layered OOP system: abstract base classes, inheritance, polymorphism, two-agent battle orchestration across 13 classes | Python |
+| [python-oop-simulation](https://github.com/tomerbenveniste/python-oop-simulation) | OOP system with 13 interdependent classes: inheritance, polymorphism, and two-agent battle logic | Python |
 | [matlab-signal-processing](https://github.com/tomerbenveniste/matlab-signal-processing) | Sampling, reconstruction, aliasing, and frequency-domain analysis | MATLAB |
 | [matlab-numerical-methods](https://github.com/tomerbenveniste/matlab-numerical-methods) | Iterative nonlinear solvers (Newton-Raphson, Secant, Fixed-Point); convergence rate analysis | MATLAB |
+
+## Personal Projects
+
+*Coming soon*
 
 ---
 
