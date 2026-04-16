@@ -4,7 +4,7 @@
 
 Previously a Systems Technician & QA engineer at Hartech Technologies (defense sector), and a Naval Communication Operator & Team Lead in the Israeli Navy.
 
-**Currently learning:** Digital Signal Processing · Systems Programming (C/C++ & Linux)
+**Currently learning:** Digital Signal Processing · Systems Programming (C/C++ & Linux) · Digital Electronic Circuits (CMOS design & logic)
 
 ---
 
