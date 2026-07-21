@@ -29,7 +29,8 @@
 - **Languages:** C/C++, Python, MATLAB, Assembly (MSP430)
 - **Embedded & Hardware:** MSP430 firmware (HAL/BSP/API), GPIO / timers / ADC, hardware interrupts · BJT/MOSFET analog design · ORCAD PSpice
 - **Software:** OOP design & polymorphism, data structures, template programming, exception handling
-- **Signal & Numerical:** Sampling & reconstruction, frequency-domain analysis, iterative numerical solvers
+- **Communications & DSP:** AM/BPSK modulation, AWGN channel modeling, BER analysis · filter design, spectral estimation, adaptive filtering
+- **Signal & Numerical:** Sampling & reconstruction, frequency-domain (FFT) analysis, iterative numerical solvers
 - **Tools & Environments:** Linux CLI, Git, Azure DevOps, VS Code
 - **Systems & Integration:** LAN/IP networking, VOIP systems, RF & satellite communication, QA & testing
 
@@ -40,8 +41,9 @@
 | Repo | Description | Language |
 |------|-------------|----------|
 | [systems-programming](https://github.com/tomerbenveniste/systems-programming) | OOP systems in C++: operator overloading, polymorphic class hierarchies, RTTI dispatch (`dynamic_cast`), a hand-rolled template container (`Array<T>`), and exception handling — plus lower-level C data-structure work | C / C++ |
+| [matlab-modern-communications](https://github.com/tomerbenveniste/matlab-modern-communications) | AM modulation over a noisy channel and BPSK over AWGN with MAP detection and bit-error-rate (BER) vs. SNR analysis | MATLAB |
+| [matlab-signal-processing](https://github.com/tomerbenveniste/matlab-signal-processing) | DSP from sampling & aliasing to Butterworth filter design, Yule-Walker spectral estimation, and steepest-descent adaptive filtering | MATLAB |
 | [python-oop-simulation](https://github.com/tomerbenveniste/python-oop-simulation) | OOP system with 13 interdependent classes: inheritance, polymorphism, and two-agent battle logic | Python |
-| [matlab-signal-processing](https://github.com/tomerbenveniste/matlab-signal-processing) | Sampling, reconstruction, aliasing, and frequency-domain analysis | MATLAB |
 | [matlab-numerical-methods](https://github.com/tomerbenveniste/matlab-numerical-methods) | Iterative nonlinear solvers (Newton-Raphson, Secant, Fixed-Point); convergence rate analysis | MATLAB |
 
 ### 🔧 Hardware & Embedded (lab coursework)
